@@ -1,4 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
 
+body {
+	background: rosybrown;
+}
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
 	body {
